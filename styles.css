@@ -1,0 +1,74 @@
+.title{
+    color: purple;
+    font-size: 5em;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    position: absolute;
+    top: 40px;
+  }
+
+  .fa-facebook{
+      right: 100px;
+  }
+
+  .fa-instagram{
+      right: 70px;
+  }
+
+  .fa-linkedin{
+      right: 30px;
+  }
+
+  .iframe{
+    display: block;
+    margin: 0 auto;
+  }
+
+  .MMPIC{
+      right: 60px;
+      padding: 20px;
+      font-size: 30px;
+      width: 450px;
+      text-align: center;
+      text-decoration: none;
+      position: absolute;
+      top: 170px;
+  }
+
+  .BIO{
+      font-family: 'Indie Flower', cursive;
+      font-size: x-large;
+      display: grid;
+      grid-template-columns: repeat(4, 800px);
+      margin-left: 50px;
+  }
+
+  .PIntro{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Tiro Bangla', serif;
+    font-size: x-large;
+    text-align: center;
+  }
+
+.container{
+    font-family: 'Tiro Bangla', serif;
+    font-size: xx-large;
+    color: teal;
+    display: grid;
+    text-align: center;
+}
+
+.col1{
+    font-size: small;
+    color: purple;
+}
